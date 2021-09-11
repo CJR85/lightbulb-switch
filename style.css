@@ -12,6 +12,10 @@ body {
   background: #222;
 }
 
+body.on {
+  background: radial-gradient(#555, #111);
+}
+
 .bulb {
   position: relative;
   width: 80px;
